@@ -107,6 +107,11 @@ box-shadow:0px 7px 5px 0px rgba(50, 50, 44, 0.38);
     transform: translatex(-50%);
     transform: translateY(50%);
 }
-
+header{
+    padding-top:3em;
+}
+.head{
+    font-weight:200;
+}
 
 }
