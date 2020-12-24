@@ -92,6 +92,8 @@ box-shadow:0px 7px 5px 0px rgba(50, 50, 44, 0.38);
    .first{
        text-align: center;
        flex-wrap:wrap;
+       width:65%;
+       margin:0 auto;
    }
    .cards{flex-direction:row;
     flex-wrap:wrap;
